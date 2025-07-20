@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nezih Ben Othmen</h1>
-<h3 align="center">A passionate IT student from Tunisia</h3>
+<h3 align="center">A passionate Software developer from Tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nezih7" alt="nezih7" /></a> </p>
 
